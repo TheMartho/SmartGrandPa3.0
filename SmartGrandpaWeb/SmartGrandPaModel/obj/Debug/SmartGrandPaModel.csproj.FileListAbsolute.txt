@@ -1,0 +1,20 @@
+C:\Users\Martin\Desktop\SmartGranpha\SmartGrandpaWeb\SmartGrandPaModel\bin\Debug\SmartGrandPaModel.dll
+C:\Users\Martin\Desktop\SmartGranpha\SmartGrandpaWeb\SmartGrandPaModel\bin\Debug\SmartGrandPaModel.pdb
+C:\Users\Martin\Desktop\SmartGranpha\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\SmartGranpha\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.dll
+C:\Users\Martin\Desktop\SmartGranpha\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.pdb
+C:\Users\Martin\Desktop\SmartGranpha\SmartGrandpaWeb\SmartGrandPaModel\bin\Debug\MySql.Data.dll
+C:\Users\Martin\Desktop\Proyectos VS\SmartGranpha\SmartGrandpaWeb\SmartGrandPaModel\bin\Debug\SmartGrandPaModel.dll
+C:\Users\Martin\Desktop\Proyectos VS\SmartGranpha\SmartGrandpaWeb\SmartGrandPaModel\bin\Debug\SmartGrandPaModel.pdb
+C:\Users\Martin\Desktop\Proyectos VS\SmartGranpha\SmartGrandpaWeb\SmartGrandPaModel\bin\Debug\MySql.Data.dll
+C:\Users\Martin\Desktop\Proyectos VS\SmartGranpha\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\Proyectos VS\SmartGranpha\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.dll
+C:\Users\Martin\Desktop\Proyectos VS\SmartGranpha\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.pdb
+C:\Users\Diego\OneDrive\Escritorio\SmartGranpha\SmartGrandpaWeb\SmartGrandPaModel\bin\Debug\SmartGrandPaModel.dll
+C:\Users\Diego\OneDrive\Escritorio\SmartGranpha\SmartGrandpaWeb\SmartGrandPaModel\bin\Debug\SmartGrandPaModel.pdb
+C:\Users\Diego\OneDrive\Escritorio\SmartGranpha\SmartGrandpaWeb\SmartGrandPaModel\bin\Debug\MySql.Data.dll
+C:\Users\Diego\OneDrive\Escritorio\SmartGranpha\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.csprojAssemblyReference.cache
+C:\Users\Diego\OneDrive\Escritorio\SmartGranpha\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.csproj.CoreCompileInputs.cache
+C:\Users\Diego\OneDrive\Escritorio\SmartGranpha\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.csproj.CopyComplete
+C:\Users\Diego\OneDrive\Escritorio\SmartGranpha\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.dll
+C:\Users\Diego\OneDrive\Escritorio\SmartGranpha\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.pdb
