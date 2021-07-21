@@ -1,0 +1,59 @@
+﻿/* css en general */
+html {
+    min-height: 100%;
+    position: relative;
+}
+body {
+    margin: 0;
+    margin-bottom: 40px;
+}
+footer {
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    color: white;
+}
+/* cabecera del blog */
+.container-cover {
+    position: relative;
+    width: 100%;
+    height: 750px;
+    background-image: url(../IMAGENES/Adulto-mayor-con-nieto.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container-content article h2 {
+    font-size: 40px;
+    font-weight: 600;
+    color: black;
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+.container-info-cover {
+    margin: auto;
+    max-width: 800px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+}
+    .container-info-cover h1 {
+        font-size: 60px;
+        font-weight: 600;
+        color: black;
+        margin-bottom: 20px;
+        padding-top: 220px;
+    }
+
+    .container-info-cover p {
+        color: black;
+        font-size: 30px;
+        font-weight: 300;
+    }

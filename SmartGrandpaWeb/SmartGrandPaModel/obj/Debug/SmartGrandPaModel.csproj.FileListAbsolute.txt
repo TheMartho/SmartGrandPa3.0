@@ -18,3 +18,11 @@ C:\Users\Diego\OneDrive\Escritorio\SmartGranpha\SmartGrandpaWeb\SmartGrandPaMode
 C:\Users\Diego\OneDrive\Escritorio\SmartGranpha\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.csproj.CopyComplete
 C:\Users\Diego\OneDrive\Escritorio\SmartGranpha\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.dll
 C:\Users\Diego\OneDrive\Escritorio\SmartGranpha\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.pdb
+C:\Users\Zeb3x\Desktop\SmartGrandPa3.0\SmartGrandpaWeb\SmartGrandPaModel\bin\Debug\SmartGrandPaModel.dll
+C:\Users\Zeb3x\Desktop\SmartGrandPa3.0\SmartGrandpaWeb\SmartGrandPaModel\bin\Debug\SmartGrandPaModel.pdb
+C:\Users\Zeb3x\Desktop\SmartGrandPa3.0\SmartGrandpaWeb\SmartGrandPaModel\bin\Debug\MySql.Data.dll
+C:\Users\Zeb3x\Desktop\SmartGrandPa3.0\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.csprojAssemblyReference.cache
+C:\Users\Zeb3x\Desktop\SmartGrandPa3.0\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.csproj.CoreCompileInputs.cache
+C:\Users\Zeb3x\Desktop\SmartGrandPa3.0\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.csproj.CopyComplete
+C:\Users\Zeb3x\Desktop\SmartGrandPa3.0\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.dll
+C:\Users\Zeb3x\Desktop\SmartGrandPa3.0\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.pdb

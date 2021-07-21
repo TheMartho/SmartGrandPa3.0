@@ -67,6 +67,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\Css.css" />
     <Content Include="Opciones.aspx" />
     <Content Include="packages.config" />
     <Content Include="Site.Master" />
