@@ -26,3 +26,9 @@ C:\Users\Zeb3x\Desktop\SmartGrandPa3.0\SmartGrandpaWeb\SmartGrandPaModel\obj\Deb
 C:\Users\Zeb3x\Desktop\SmartGrandPa3.0\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.csproj.CopyComplete
 C:\Users\Zeb3x\Desktop\SmartGrandPa3.0\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.dll
 C:\Users\Zeb3x\Desktop\SmartGrandPa3.0\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.pdb
+C:\Users\Martin\Desktop\SmartGrandPa3.0\SmartGrandpaWeb\SmartGrandPaModel\bin\Debug\SmartGrandPaModel.dll
+C:\Users\Martin\Desktop\SmartGrandPa3.0\SmartGrandpaWeb\SmartGrandPaModel\bin\Debug\SmartGrandPaModel.pdb
+C:\Users\Martin\Desktop\SmartGrandPa3.0\SmartGrandpaWeb\SmartGrandPaModel\bin\Debug\MySql.Data.dll
+C:\Users\Martin\Desktop\SmartGrandPa3.0\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Desktop\SmartGrandPa3.0\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.dll
+C:\Users\Martin\Desktop\SmartGrandPa3.0\SmartGrandpaWeb\SmartGrandPaModel\obj\Debug\SmartGrandPaModel.pdb

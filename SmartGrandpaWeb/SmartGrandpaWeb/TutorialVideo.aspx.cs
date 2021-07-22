@@ -11,7 +11,7 @@ namespace SmartGrandpaWeb
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            String urlTxt = Request.QueryString.Get("url");
         }
     }
 }

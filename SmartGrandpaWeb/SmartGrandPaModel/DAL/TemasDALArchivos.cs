@@ -107,6 +107,34 @@ namespace SmartGrandPaModel.DAL
             }
             return urls;
         }
+
+        public List<Tema> temasFiltrados(string filtro)
+        {
+            List<Tema> temasFiltrados = new List<Tema>();
+            using (MySqlConnection conexion = Conectar())
+            {
+                MySqlCommand comando = new MySqlCommand(string.Format("Select idTema, Nombre_tema, Url_imagen_tema, Descripcion_tema, VideoTutorial_idVideoTutorial, GuiaEscrita_idGuiaEscrita, MaterialDidactico_idMaterialDidactico from tema WHERE Nombre_tema LIKE '%" + filtro+ "%' OR Descripcion_tema LIKE '%" + filtro+ "%'"), conexion);
+                MySqlDataReader reader = comando.ExecuteReader();
+
+                while (reader.Read())
+                {
+                    Tema t = new Tema();
+                    t.Id = reader.GetInt32(0);
+                    t.NombreTema = reader.GetString(1);
+                    t.UrlImagen = reader.GetString(2);
+                    t.Descripcion = reader.GetString(3);
+                    t.IdVideo = reader.GetString(4);
+                    t.IdGuia = reader.GetString(5);
+                    t.IdMaterialDidactico = reader.GetString(6);
+                    temasFiltrados.Add(t);
+                }
+                comando = null;
+                conexion.Close();
+
+                return temasFiltrados;
+            }
+            return temasFiltrados;
+        }
     }
 
 

@@ -13,5 +13,6 @@ namespace SmartGrandPaModel.DAL
         List<Tema> GetAll();
         Tema FindById(int id);
         List<String> GetUrls(Tema t);
+        List<Tema> temasFiltrados(String filtro);
     }
 }

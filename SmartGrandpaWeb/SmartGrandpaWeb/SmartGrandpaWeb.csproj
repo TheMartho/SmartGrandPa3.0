@@ -81,7 +81,6 @@
   <ItemGroup>
     <Content Include="blog.aspx" />
     <Content Include="contacto.aspx" />
-    <Content Include="css\Estilo.css" />
     <Content Include="Default.aspx" />
     <Content Include="imagenes\3-extensiones-para-ser-más-productivo-con-Gmail-00-1280x720.jpg" />
     <Content Include="imagenes\450_1000.jpg" />

@@ -11,12 +11,25 @@ namespace SmartGrandpaWeb
 {
     public partial class Tutoriales : System.Web.UI.Page
     {
+        public static ITemasDAL dal = TemasDALFactory.Create();
+
         protected void Page_Load(object sender, EventArgs e)
         {
-            ITemasDAL dal = TemasDALFactory.Create();
             List<Tema> temas = dal.GetAll();
             Repetidor.DataSource = temas;
             Repetidor.DataBind();
         }
+
+        protected void BtnFiltrar_Click(object sender, EventArgs e)
+        {
+            String filtro = filtroTxt.Text.Trim();
+            if (!string.IsNullOrEmpty(filtro)){
+                List<Tema> temas = dal.temasFiltrados(filtro);
+                Repetidor.DataSource = temas;
+                Repetidor.DataBind();
+            }
+
+        }
     }
+
 }

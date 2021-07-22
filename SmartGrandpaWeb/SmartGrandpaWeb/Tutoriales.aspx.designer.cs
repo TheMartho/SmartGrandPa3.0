@@ -13,6 +13,24 @@ namespace SmartGrandpaWeb {
     public partial class Tutoriales {
         
         /// <summary>
+        /// filtroTxt control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox filtroTxt;
+        
+        /// <summary>
+        /// BtnFiltrar control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button BtnFiltrar;
+        
+        /// <summary>
         /// Repetidor control.
         /// </summary>
         /// <remarks>
