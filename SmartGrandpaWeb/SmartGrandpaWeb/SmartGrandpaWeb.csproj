@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\Css.css" />
+    <Content Include="exito.aspx" />
     <Content Include="Opciones.aspx" />
     <Content Include="packages.config" />
     <Content Include="Site.Master" />
@@ -119,6 +120,13 @@
     </Compile>
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="exito.aspx.cs">
+      <DependentUpon>exito.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="exito.aspx.designer.cs">
+      <DependentUpon>exito.aspx</DependentUpon>
     </Compile>
     <Compile Include="Opciones.aspx.cs">
       <DependentUpon>Opciones.aspx</DependentUpon>
