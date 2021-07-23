@@ -1,6 +1,8 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="TutorialEscrito.aspx.cs" Inherits="SmartGrandpaWeb.TutorialEscrito" %>
+
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-        <div class="container-cover">
+    <!-- lorem de ejemplo para los tutoriales escritos -->
+    <div class="container-cover">
         <div class="container-info-cover">
             <h1>!todo es posible!</h1>
             <p>
@@ -9,9 +11,6 @@
             </p>
         </div>
     </div>
-    <br>
-    <br>
-    <br>
     <div>
         <p>
             Why do we use it?

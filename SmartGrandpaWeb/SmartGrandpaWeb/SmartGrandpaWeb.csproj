@@ -69,6 +69,8 @@
   <ItemGroup>
     <Content Include="css\Css.css" />
     <Content Include="exito.aspx" />
+    <Content Include="imagenes\nosotros.png" />
+    <Content Include="imagenes\tutoriales_web.jpg" />
     <Content Include="Opciones.aspx" />
     <Content Include="packages.config" />
     <Content Include="Site.Master" />
