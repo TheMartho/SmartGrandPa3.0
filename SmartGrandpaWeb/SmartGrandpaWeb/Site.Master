@@ -11,22 +11,22 @@
 <body>
     <header>
         <!-- navbar -->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-info bg-gradient">
-            <div class="container-fluid">
-                <a class="navbar-brand" href="#">SmartGrandpa</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-                    <div class="navbar-nav">
-                        <a class="nav-link active" aria-current="page" href="Default.aspx">Inicio</a>
-                        <a class="nav-link active" href="Tutoriales.aspx">Tutoriales</a>
-                        <a class="nav-link active" href="blog.aspx">Sobre nosotros</a>
-                        <a class="nav-link active" href="contacto.aspx">Contacto</a>
-                    </div>
+        <div class="header-content">
+                <div class="logo">
+                    <h1>Smart<b>Grand</b><b>Pa</b></h1>
+                </div>
+                <!-- menú de navegación/navbar -->
+                <div class="menu">
+                    <nav>
+                        <ul>
+                            <li class="menu-selected-inicio"><a href="Default.aspx" class="text-menu-selected-inicio">Inicio</a></li>
+                            <li class="menu-selected-tutoriales"><a href="Tutoriales.aspx" class="text-menu-selected-tutoriales">Tutoriales</a></li>
+                            <li class="menu-selected-blog"><a href="blog.aspx" class="text-menu-selected-blog">¿Quienes Somos?</a></li>
+                            <li class="menu-selected-contacto"><a href="contacto.aspx" class="text-menu-selected-contacto">Contacto</a></li>
+                        </ul>
+                    </nav>
                 </div>
             </div>
-        </nav>
     </header>
        <!-- Contenido-->
     <form id="form1" runat="server">

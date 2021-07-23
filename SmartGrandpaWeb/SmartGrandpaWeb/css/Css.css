@@ -121,3 +121,112 @@ footer {
             text-decoration: none;
             color: #3498;
         }
+
+.header-content {
+    margin: auto;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+}
+
+    .logo h1 b {
+        color: #00BCD4;
+    }
+
+.menu {
+    height: 80px;
+}
+
+    .menu nav {
+        height: 100%;
+    }
+
+        .menu nav ul {
+            list-style: none;
+            display: flex;
+            height: 100%;
+        }
+
+            .menu nav ul li {
+                align-items: center;
+                margin: 0px 20px;
+                display: flex;
+                height: 100%;
+                justify-content: center;
+                position: relative;
+            }
+
+.menu-selected-inicio:before {
+    content: '';
+    width: 100%;
+    height: 4px;
+    background: #F57C00;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+.menu-selected-tutoriales:before {
+    content: '';
+    width: 100%;
+    height: 4px;
+    background: #303F9F;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+.menu-selected-blog:before {
+    content: '';
+    width: 100%;
+    height: 4px;
+    background: #5D4037;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+.menu-selected-contacto:before {
+    content: '';
+    width: 100%;
+    height: 4px;
+    background: #C2185B;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+.menu nav ul li a {
+    color: black;
+    transition: color 300ms;
+    font-size: 21px;
+}
+
+    .menu nav ul li a:hover {
+        color: #00BCD4;
+    }
+
+.menu .text-menu-selected-inicio {
+    color: #F57C00;
+}
+
+.menu .text-menu-selected-tutoriales {
+    color: #303F9F;
+}
+
+.menu .text-menu-selected-blog {
+    color: #5D4037;
+}
+
+.menu .text-menu-selected-contacto {
+    color: #C2185B;
+}
+
+
