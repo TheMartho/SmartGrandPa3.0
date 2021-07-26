@@ -11,7 +11,7 @@
         <asp:Repeater ID="Repetidor" runat="server">
             <ItemTemplate>
                 <div class="card" style="width: 18rem;">
-                    <img class="card-img-top" src="<%# DataBinder.Eval(Container.DataItem, "UrlImagen") %>" alt="Card image cap" height="250" width="260"></a>
+                    <img class="img-fluid text-center" src="<%# DataBinder.Eval(Container.DataItem, "UrlImagen") %>" alt="Card image cap" height="250" width="260"></a>
                     <div class="card-body text-center">
                         <p class="card-title">"<%# DataBinder.Eval(Container.DataItem, "NombreTema") %>"</p>
                         <h5 class="card-text">"<%# DataBinder.Eval(Container.DataItem, "Descripcion") %>"</h5>

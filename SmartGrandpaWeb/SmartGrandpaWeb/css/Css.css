@@ -67,6 +67,10 @@ footer {
     margin-top: 20px;
 }
 
+.margin-bottom {
+    margin-bottom: 100px;
+}
+
 .barra {
     display: flex;
     align-items: center;

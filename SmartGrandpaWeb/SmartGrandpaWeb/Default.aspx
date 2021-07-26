@@ -6,7 +6,7 @@
         <div class="card" style="width: 18rem;">
             <img class="card-img-top" src="imagenes\nosotros.png" alt="Card image cap" height="250" width="260" />
             <div class="card-body text-center">
-                <p class="card-title">"sobre nosotros"</p>
+                <p class="card-title">"Sobre nosotros"</p>
                 <h5 class="card-text">"Aprende sobre nosotros y de que trata esta web"</h5>
             </div>
             <div class="card-footer text-center">

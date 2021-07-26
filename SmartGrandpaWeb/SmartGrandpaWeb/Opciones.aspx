@@ -3,7 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="container margin-top">
         <!-- lleva a los tutoriales escritos -->
-        <div class="card text-center" style="width: 18rem;">
+        <div class="card img-fluid text-center" style="width: 18rem;">
             <img class="card-img-top" src="imagenes/TutorialMano.jpg" alt="Card image cap" height="250" width="260" />
             <div class="card-body">
                 <h5 class="card-title">TUTORIAL ESCRITO</h5>
@@ -13,7 +13,7 @@
             </div>
         </div>
         <!-- lleva a los tutoriales de video -->
-        <div class="card text-center" style="width: 18rem;">
+        <div class="card img-fluid text-center" style="width: 18rem;">
             <img class="card-img-top" src="imagenes/VideoTutorial.png" alt="Card image cap" height="250" width="260" />
             <div class="card-body">
                 <h5 class="card-title">VIDEO TUTORIAL</h5>
@@ -23,7 +23,7 @@
             </div>
         </div>
         <!-- lleva a los tutoriales didacticos -->
-        <div class="card text-center" style="width: 18rem;">
+        <div class="card img-fluid text-center" style="width: 18rem;">
             <img class="card-img-top" src="imagenes/diseño-interactivo1.gif" alt="Card image cap" height="250" width="260" />
             <div class="card-body">
                 <h5 class="card-title">TUTORIAL DIDACTICO</h5>
